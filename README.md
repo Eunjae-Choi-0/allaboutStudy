@@ -1,1 +1,1 @@
-# SpringStudy
+# Study
